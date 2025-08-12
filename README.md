@@ -2,7 +2,7 @@
 
 A **simple, clean, and responsive task management app** built using **HTML, CSS, and JavaScript**.  
 This app helps you stay organized by allowing you to **add, edit, delete, and store tasks** in your browser’s localStorage so they persist even after refreshing the page.
-
+Demo Link: https://todolistrlpreddy.netlify.app/
 ---
 
 ## 📖 Project Overview
